@@ -1,0 +1,13 @@
+{
+    "name": "PaymentZarinpal",
+    "alias": "paymentzarinpal",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentZarinpal\\Providers\\PaymentZarinpalServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
